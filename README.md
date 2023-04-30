@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @affanCodes
-- 👀 I’m interested in Quality Assurance and Engineering
+- 👀 I’m interested in Quality Engineering and Assurance
 - 🌱 I’m currently learning API testing
 - 💞️ I’m looking to collaborate QA and Testing
 - 📫 How to reach me : affansayyad27@gmail.com
